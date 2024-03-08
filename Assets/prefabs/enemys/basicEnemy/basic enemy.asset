@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0366f85847e4a7b44bffcc18ce258cfc, type: 3}
+  m_Name: basic enemy
+  m_EditorClassIdentifier: 
+  damage: 10
+  scoreToGive: 5
+  typeOfEnemy: combat
+  hitEffect: {fileID: 8605012362716606348, guid: 1f0e2b614aef64b33a6071b66c86746e,
+    type: 3}
+  deathEffect: {fileID: 6067457342763913507, guid: 7c95c85a0eac59d4187dd37167a98359,
+    type: 3}

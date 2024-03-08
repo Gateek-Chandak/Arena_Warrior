@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0366f85847e4a7b44bffcc18ce258cfc, type: 3}
+  m_Name: ranged enemy
+  m_EditorClassIdentifier: 
+  damage: 5
+  scoreToGive: 20
+  typeOfEnemy: fd
+  hitEffect: {fileID: 4850032010591649641, guid: 1bc3982af12affb4090397d450b65bb5,
+    type: 3}
+  deathEffect: {fileID: 6127144391319890242, guid: ad10d32464dab25468790761c70e901d,
+    type: 3}
